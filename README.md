@@ -2,7 +2,7 @@
 
 The objective of this project is to create a CLI quiz app about me, Hamdrive!
 
-Live Demo: shorturl.at/eosM9
+Live Demo: https://shorturl.at/eosM9
 
 ## Getting it running
 
